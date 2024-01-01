@@ -1,0 +1,19 @@
+body {
+    background-color: lightyellow;
+    font-size: 16px;
+    font-family: Tahoma, Verdana, sans-serif;
+}
+
+h1 {
+    background-color: red;
+    color: gold;
+    font-weight: bold;
+    font-family: 'Brush Script MT', Georgia, serif;
+    text-align: center;
+    font-size: 36px;
+}
+
+li {
+    font-weight: bold;
+    font-size: 22px;
+}
